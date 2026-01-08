@@ -18,16 +18,16 @@
 
 <div align="center">
   <p><small>Certificates</small></p>
-  <img src="https://img.shields.io/badge/ADsP-blue?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADsP-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQLD-success?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-success?style=flat-square"/>
 </div>
 
 <br><br>
 
 <div align="center">
   <p><small>Activities</small></p>
-  <table align="center" width="80%">
+  <table align="center" width="70%">
     <tr>
       <td align="center" width="20%"><small>Category</small></td>
       <td align="center" width="60%"><small>Details</small></td>
@@ -58,13 +58,8 @@
 
 <br><br>
 
-<p align="center">
-  <small>Contact</small><br>
-  <a href="mailto:dkdus3757@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dkdus3757@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <p><small>Contact</small></p>
+  <p><small>Gmail : dkdus3757@gmail.com</small></p>
+  <p><small>Naver : dkdus3757@naver.com</small></p>
+</div>
