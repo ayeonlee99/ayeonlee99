@@ -36,7 +36,7 @@
     <tr>
       <td align="center"><small>Project</small></td>
       <td><small>야구 직관 동행인 매칭 서비스 '메잇볼' Project Manager</small></td>
-      <td align="center"><small>2024.03 - 2024.06</small></td>
+      <td align="center"><small>2025.06 - 2026.01</small></td>
     </tr>
     <tr>
       <td align="center"><small>Club</small></td>
