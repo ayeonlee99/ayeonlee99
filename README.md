@@ -2,19 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F0F0F0&fontColor=333333&height=180&section=header&text=Ayeon's%20Github&fontSize=35" />
 </p>
 
-<br><br><br>
-
-<p align="center">
-  <a href="mailto:dkdus3757@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dkdus3757@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-</p>
-
-<br><br><br><br>
+<br><br>
 
 <div align="center">
   <p><small>Languages & Tools</small></p>
@@ -26,7 +14,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <p><small>Certificates</small></p>
@@ -35,15 +23,15 @@
   <img src="https://img.shields.io/badge/SQLD-success?style=flat-square&logo=sqlite&logoColor=white"/>
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <div align="center">
   <p><small>Activities</small></p>
-  <table align="center">
+  <table align="center" width="80%">
     <tr>
-      <td align="center"><small>Category</small></td>
-      <td align="center"><small>Details</small></td>
-      <td align="center"><small>Period</small></td>
+      <td align="center" width="20%"><small>Category</small></td>
+      <td align="center" width="60%"><small>Details</small></td>
+      <td align="center" width="20%"><small>Period</small></td>
     </tr>
     <tr>
       <td align="center"><small>Project</small></td>
@@ -68,4 +56,15 @@
   </table>
 </div>
 
-<br><br><br>
+<br><br>
+
+<p align="center">
+  <small>Contact</small><br>
+  <a href="mailto:dkdus3757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dkdus3757@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  </a>
+</p>
