@@ -39,8 +39,8 @@
       <td align="center"><small>2025.06 - 2026.01</small></td>
     </tr>
     <tr>
-      <td align="center"><small>Club</small></td>
-      <td><small>IT 벤처 창업 동아리 SOPT 36기 기획 파트 수료</small></td>
+      <td align="center"><small>Study</small></td>
+      <td><small>IT 창업 동아리 SOPT 36기 기획 파트 수료</small></td>
       <td align="center"><small>2025.04 - 2025.08</small></td>
     </tr>
     <tr>
